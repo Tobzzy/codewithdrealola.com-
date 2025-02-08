@@ -1,0 +1,12 @@
+import React from "react";
+
+const Footer = () => {
+  return (
+    <div className="max-w-screen-lg w-full text-center py-6 opacity-60">
+      <p>Made with &hearts; by Toyib Ahmed</p>
+      <p>&copy; 2025</p>
+    </div>
+  );
+};
+
+export default Footer;
