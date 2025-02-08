@@ -74,7 +74,7 @@ const Home: React.FC = () => {
             <span className="bg-gradient-to-tl from-cyan-500 via-teal-500 to-blue-500 text-transparent bg-clip-text font-bold">
               Toyib (Ola)
             </span>
-            <span className="animate-wave inline-block">🤚🏻</span>
+            <span className="animate-wave inline-block">🤚🏾</span>
           </h1>
           <h2 className="text-3xl">I'm a Senior Frontend Engineer.</h2>
         </div>
